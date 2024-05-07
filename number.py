@@ -1,0 +1,6 @@
+number = input("Enter number: ")
+number2 = input("Enter number: ")
+converted_value = float(number)
+converted_value2 = float(number2)
+print(type(converted_value))
+print(converted_value + converted_value2)
